@@ -1,0 +1,21 @@
+Datasets :
+
+R has some inbuilt DataSets some frequently used data sets are, 'iris' , 'mpg' and 'mtcars' Datasets
+
+1.	The 'iris' data comprises of 150 observations with 5 variables. We have 3 species of flowers: Setosa, Versicolor and Virginica and for each of them the sepal length and width and petal length and width are provided.
+
+2.	The 'mtcars' data consists of fuel consumption (mpg) and 10 aspects of automobile design and performance for 32 automobiles. In order words, we have 32 observations and 11 different variables:
+
+        1.	mpg  Miles/(US) gallon
+        2.	cyl  Number of cylinders
+        3.	disp  Displacement (cu.in.)
+        4.	hp  Gross horsepower
+        5.	drat  Rear axle ratio
+        6.	wt  Weight (1000 lbs)
+        7.	qsec 1/4 mile time
+        8.	vs V/S
+        9.	am  Transmission (0 = automatic, 1 = manual)
+        10.	gear  Number of forward gears
+        11.	carb  Number of carburetors
+
+3.	The 'mpg' data consists of 234 observations and 11 variables.

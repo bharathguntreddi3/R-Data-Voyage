@@ -1,0 +1,12 @@
+DATA FRAMES :
+        A Data Frame is a table or 2-dimensional array like structure in which each column conatins values
+of a one variable and each row contains one set of values from each column
+
+- Data Frames are tabular data objects
+- A Data Frame is a list of vectors of equal length
+- Data Frame is R is used for storing data tables like tables stored in databases
+
+Characteristics :
+-> The column names should be non-empty
+-> The row names should be unique
+-> The data stored in dataframe can be of numeric, factor or character type
